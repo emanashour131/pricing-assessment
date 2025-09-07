@@ -17,3 +17,13 @@
 ## Trade-offs
 - Simplified error handling for demo purposes
 - Only one integration test for best-price, more could be added
+
+## Seeded Data
+
+The project comes with some initial data for easy testing:
+
+- **Suppliers**
+- **Products**
+- **PriceLists**
+
+This allows you to run the API and try out the endpoints without having to manually add data first.
